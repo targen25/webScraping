@@ -1,0 +1,12 @@
+E:\webScraping\fourth\webScraping\webScraping\bin\Debug\webScraping.exe.config
+E:\webScraping\fourth\webScraping\webScraping\bin\Debug\webScraping.exe
+E:\webScraping\fourth\webScraping\webScraping\bin\Debug\webScraping.pdb
+E:\webScraping\fourth\webScraping\webScraping\obj\Debug\webScraping.csprojAssemblyReference.cache
+E:\webScraping\fourth\webScraping\webScraping\obj\Debug\webScraping.fmWebScraping.resources
+E:\webScraping\fourth\webScraping\webScraping\obj\Debug\webScraping.Properties.Resources.resources
+E:\webScraping\fourth\webScraping\webScraping\obj\Debug\webScraping.csproj.GenerateResource.cache
+E:\webScraping\fourth\webScraping\webScraping\obj\Debug\webScraping.csproj.CoreCompileInputs.cache
+E:\webScraping\fourth\webScraping\webScraping\obj\Debug\webScraping.exe
+E:\webScraping\fourth\webScraping\webScraping\obj\Debug\webScraping.pdb
+E:\webScraping\fourth\webScraping\webScraping\bin\Debug\HtmlAgilityPack.dll
+E:\webScraping\fourth\webScraping\webScraping\obj\Debug\webScraping.csproj.CopyComplete
